@@ -67,3 +67,4 @@ public class RectangleTest {
         System.out.println("Width: " + myRect.getWidth());
     }
 }
+// Feature branch change for GitHub lab task
